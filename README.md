@@ -8,8 +8,8 @@
   <a href="https://discord.com/users/320502924830834689" target="_blank">
   <img src="https://img.shields.io/badge/Discord-Gloomy_Tree-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="mailto:paysserandarmen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-paysserandarmen@gmail.com-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:vermillougmail.com">
+    <img src="https://img.shields.io/badge/Email-vermillou@gmail.com-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Location-France-005F73?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
