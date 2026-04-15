@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hey, I'm Gloomy Tree 👋</h1>
+<h1 align="center">Hey, I'm Gloomy Tree</h1>
 <p align="center">
   <em>Master's student in Marine Sciences · Based in France 🌊FR</em>
 </p>
@@ -24,7 +24,7 @@ Currently finishing a **Master's 1 in Water Sciences** with a research focus on 
 
 ## 🌊 Professional Interests
 
-Particularly interested in the intersection of **environmental data** and **field ecology** — understanding how abiotic and biotic drivers shape marine populations.
+Particularly interested in the intersection of **environmental data** and **field ecology** : understanding how abiotic and biotic drivers shape marine populations.
 
 ---
 
@@ -45,14 +45,9 @@ Particularly interested in the intersection of **environmental data** and **fiel
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=flat&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RStudio-5865F2?style=flat&logo=r&logoColor=#276DC3"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waip0n&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waip0n&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
