@@ -30,12 +30,13 @@ Particularly interested in the intersection of **environmental data** and **fiel
 
 ## 🎮 Personal Projects & Hobbies
 
-**Discord Development** — Building bots and apps for Discord using Python and JavaScript. Interested in automation, community tooling, and API integrations.
+**Discord Development** - Building bots and apps for Discord using Python and JavaScript. Interested in automation, community tooling, and API integrations.
 
-**Game Jams** — Participating in and following game jams. Enjoy the creative constraint of building something playable in a short window.
+**Game Jams** - Participating in and following game jams. Enjoy the creative constraint of building something playable in a short window.
 
-**Small Game Creation** — Designing and prototyping small games, experimenting with mechanics, RNG systems, and narrative design.
+**Small Game Creation** - Designing and prototyping small games, experimenting with mechanics, RNG systems, and narrative design.
 
+**Nautic activities** - Spending as much free time as possible in the water, whether I'm diving, surfing or doing apnea, that's where you find me the most
 ---
 
 ## 🛠️ Tools & Stack
