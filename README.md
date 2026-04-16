@@ -37,6 +37,7 @@ Particularly interested in the intersection of **environmental data** and **fiel
 **Small Game Creation** - Designing and prototyping small games, experimenting with mechanics, RNG systems, and narrative design.
 
 **Nautic activities** - Spending as much free time as possible in the water, whether I'm diving, surfing or doing apnea, that's where you find me the most
+
 ---
 
 ## 🛠️ Tools & Stack
