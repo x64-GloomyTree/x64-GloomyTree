@@ -18,7 +18,7 @@
 
 ## 🎓 What I do
 
-Currently finishing a **Master's 1 in Water Sciences** with a research focus on **marine biology and coastal ecosystems**. My academic work involves fishery dynamics, environmental monitoring, and data analysis applied to marine environments.
+Currently finishing a **Master's 2 in Water Sciences** with a research focus on **marine biology and coastal ecosystems**. My academic work involves fishery dynamics, environmental monitoring, and data analysis applied to marine environments.
 
 ---
 
